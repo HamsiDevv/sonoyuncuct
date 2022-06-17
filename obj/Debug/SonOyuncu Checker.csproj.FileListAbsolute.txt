@@ -1,0 +1,13 @@
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\bin\Debug\SonOyuncu Checker.exe.config
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\bin\Debug\SonOyuncu Checker.exe
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\bin\Debug\SonOyuncu Checker.pdb
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\bin\Debug\Colorful.Console.dll
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\bin\Debug\Leaf.xNet.dll
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\bin\Debug\xNet.dll
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\obj\Debug\SonOyuncu Checker.csproj.AssemblyReference.cache
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\obj\Debug\SonOyuncu_Checker.Properties.Resources.resources
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\obj\Debug\SonOyuncu Checker.csproj.GenerateResource.cache
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\obj\Debug\SonOyuncu Checker.csproj.CoreCompileInputs.cache
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\obj\Debug\SonOyuncu Checker.csproj.CopyComplete
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\obj\Debug\SonOyuncu Checker.exe
+C:\Users\Royalist\source\repos\SonOyuncu Checker\SonOyuncu Checker\obj\Debug\SonOyuncu Checker.pdb
